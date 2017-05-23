@@ -1,0 +1,6 @@
+{
+  "name": "wedding-site",
+  "short_name": "wedding-site",
+  "start_url": "/",
+  "display": "standalone"
+}
